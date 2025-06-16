@@ -1,0 +1,8 @@
+## Estructura del proyecto
+
+- `src/` — Código fuente principal.
+   - `main.py` — Lógica principal.
+   - `requirements.txt` — Dependencias.
+- `tests/` — Pruebas automáticas.
+- `README.md` — Documentación y guía de inicio.
+- `LICENSE` — Licencia del proyecto.

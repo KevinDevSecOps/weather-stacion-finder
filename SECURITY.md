@@ -7,7 +7,7 @@ Gracias por ayudar a mantener este proyecto seguro.
 Si encuentras una vulnerabilidad, por favor sigue estos pasos:
 
 1. No la publiques públicamente.
-2. Envíanos un correo a [tu-email@ejemplo.com] con los detalles.
+2. Envíanos un correo a [kevinpamiestrabajo@gmai.com] con los detalles.
 3. Te responderemos lo antes posible para confirmar la recepción y trabajar juntos en una solución.
 
 ## Buenas prácticas

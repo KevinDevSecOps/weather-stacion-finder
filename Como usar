@@ -1,0 +1,12 @@
+## Ejemplo de uso
+
+```python
+from main import buscar_estaciones_cercanas
+
+# Coordenadas de ejemplo: Madrid, España
+lat = 40.4168
+lon = -3.7038
+
+estaciones = buscar_estaciones_cercanas(lat, lon)
+print(estaciones)
+```
